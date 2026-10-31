@@ -1,0 +1,96 @@
+a{
+  text-decoration: none;
+  padding:8px ;
+  border-radius:16px;
+  background-color:white;
+  margin-bottom:8px;
+  display:inline-block;
+  margin:12px;
+  
+  a:hover{
+    background-color:green;
+    color: purple;
+    transition:5s;
+  }
+  
+}
+
+h2{
+  color: Gold;
+  text-align:left;
+  border-radius: 8px;
+  text-decoration: none;
+  letter-spacing:none;
+  
+}
+
+P{
+  color:white;
+  font-style:italic;
+}
+
+body{
+  background-color:#071B33;
+}
+
+h1{
+  color:gold;
+  letter-spacing:5px;
+  margin-bottom: 5px;
+  
+}
+span{
+  color:red;
+  border-radius:16px;
+  background-color:#ffffff;
+  margin:8px;
+  padding:4px;
+  z-index:none;
+}
+li{
+  color: white;
+}
+  h4{
+    color: yellow ;
+  }
+  .project-card{
+   margin:12px;
+   padding:10px;
+  }
+  
+  footer{
+    color:red;
+    text-align: center ;
+  }
+  
+.profile-photo{
+  width:100px;
+  heigth:100px;
+border-radius: 50px;
+padding: 10px;
+  
+}
+.zahra{
+  display:flex;
+  align-item: center;
+  gape:20; 
+}
+.zahra-text h2 {
+    margin-bottom: 12px;
+}
+
+.zahra {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.zahra-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.zahra-text h1,
+.zahra-text h2 {
+    margin: 0;
+}
